@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsUebung3
 {
-    public partial class Form1 : Form
+    public partial class FormMietvertrag : Form
     {
-        public Form1()
+        public FormMietvertrag()
         {
-            InitializeComponent();
+          
         }
     }
 }
